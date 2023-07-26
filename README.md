@@ -6,3 +6,5 @@
 - 🌱 I’m currently learning embedded Linux
 - 👯 I’m looking to collaborate on the Linux Kernel!
 - 📫 How to reach me: LinkedIn, linked on my profile :)
+
+You can find my resume [here](https://github.com/ATGr8/ATGr8/blob/main/Atharva_s_Resume%20(3).pdf)
