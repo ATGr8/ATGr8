@@ -7,4 +7,4 @@
 - 👯 I’m looking to collaborate on the Linux Kernel!
 - 📫 How to reach me: LinkedIn, linked on my profile :)
 
-You can find my resume [here](https://github.com/ATGr8/ATGr8/blob/main/Atharva_s_Resume%20(3).pdf), and my portfolio [here])https://github.com/ATGr8/ATGr8/blob/main/Atharva's%20Portfolio.pdf).
+You can find my resume [here](https://github.com/ATGr8/ATGr8/blob/main/Atharva_s_Resume%20(3).pdf), and my portfolio [here](https://github.com/ATGr8/ATGr8/blob/main/Atharva's%20Portfolio.pdf).
